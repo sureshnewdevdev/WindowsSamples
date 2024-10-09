@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSDLinqSamples", "FSDLinqSamples.csproj", "{84AB72EB-FE90-4A1A-B4E6-CD0825026776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWindowsForm", "..\FirstWindowsForm\FirstWindowsForm.csproj", "{0FFF2145-BCEE-4DB7-857A-364233B2B89E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AB72EB-FE90-4A1A-B4E6-CD0825026776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AB72EB-FE90-4A1A-B4E6-CD0825026776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AB72EB-FE90-4A1A-B4E6-CD0825026776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AB72EB-FE90-4A1A-B4E6-CD0825026776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFF2145-BCEE-4DB7-857A-364233B2B89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFF2145-BCEE-4DB7-857A-364233B2B89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFF2145-BCEE-4DB7-857A-364233B2B89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFF2145-BCEE-4DB7-857A-364233B2B89E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AF70CFB-B9D9-4AE6-B471-E50D7C1460C9}
+	EndGlobalSection
+EndGlobal
